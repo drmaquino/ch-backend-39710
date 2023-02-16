@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "ejemploclase2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
