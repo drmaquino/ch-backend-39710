@@ -1,13 +1,16 @@
 {
-  "name": "clase4manejodearchivos",
+  "name": "desafio2",
   "version": "1.0.0",
   "description": "",
-  "main": "desafio1.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
