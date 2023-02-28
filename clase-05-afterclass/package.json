@@ -1,0 +1,12 @@
+{
+  "name": "clase-05-afterclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/trycatch.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
