@@ -6,7 +6,7 @@
   "main": "src/servidor.js",
   "scripts": {
     "start": "node .",
-    "test": "nodemon -e 'js,html' ."
+    "test": "nodemon -e 'js' ."
   },
   "keywords": [],
   "author": "",
