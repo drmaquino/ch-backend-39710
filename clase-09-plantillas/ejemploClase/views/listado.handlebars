@@ -1,0 +1,11 @@
+<h1>{{encabezado}}</h1>
+{{#if hayListado}}
+<h4>Aptitudes</h4>
+<ul>
+    {{#each listado}}
+    <li>{{this}}</li>
+    {{/each}}
+</ul>
+{{else}}
+<p class="text-danger">sin aptitudes...</p>
+{{/if}}
